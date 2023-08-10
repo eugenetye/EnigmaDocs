@@ -1,6 +1,6 @@
 # EnigmaDocs
 
-This is a Python application that allows you to engage in interactive conversations with your PDF documents. 
+This is a Python application built with LangChain, Streamlit, OpenAI API, and HuggingFace LLM that allows you to engage in interactive conversations with your PDF documents. 
 > IMPORTANT: The app will only respond to questions related to the uploaded PDFs.
 
 ## How It Works
